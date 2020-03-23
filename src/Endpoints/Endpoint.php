@@ -5,7 +5,7 @@ namespace PicPay\Endpoints;
 use Exception;
 use PicPay\Client;
 use PicPay\Helpers\PayloadHelper;
-use PicPay\PayloadException;
+use PicPay\Exception\PayloadException;
 use Psr\Http\Message\ResponseInterface;
 
 abstract class Endpoint

@@ -1,6 +1,6 @@
 <?php
 
-namespace PicPay;
+namespace PicPay\Exception;
 
 use Exception;
 
